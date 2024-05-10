@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 3811119991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e68f09fabf48051d01fc68e9e861883
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76e6bb01169cdeb51eff4f70a760c1f3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7e68f09fabf48051d01fc68e9e861883
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29a899cc4fab7c44c83c165313b1416f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9c21223b288d64d8ebe997059a8e5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7edad4dbb583184499f5d6efa0d9ef30, type: 3}
+- Class: 114
+  Script: {fileID: -1787465788, guid: aca0e870cf8eb8346939126306b732e1, type: 3}
+- Class: 114
+  Script: {fileID: -194780425, guid: aca0e870cf8eb8346939126306b732e1, type: 3}
+- Class: 114
+  Script: {fileID: 2024385392, guid: aca0e870cf8eb8346939126306b732e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e61b506b9a133141879e2d1de825536, type: 3}
+- Class: 114
+  Script: {fileID: -1570182464, guid: b7eecbff8f12af24e9c50316fd5cda0a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/LethalCompany/Mods/ImmersiveScraps/ImmersiveScrapsExtendedMod.asset
+Dependencies: []

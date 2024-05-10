@@ -1,0 +1,317 @@
+ManifestFileVersion: 0
+CRC: 3594403374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9939b63b9b0a3b29efbd09fe9cac4af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e2f60f33fa9beea197fb89ea5bb32dc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9939b63b9b0a3b29efbd09fe9cac4af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/Mods/OldSeaPort/Materials/Rooftiles_Shiny.mat
+- Assets/Mods/OldSeaPort/mesh/brick_column_1.fbx
+- Assets/Mods/OldSeaPort/prefabs/Wood Canopy.prefab
+- Assets/Mods/OldSeaPort/prefabs/brick_column_1.prefab
+- Assets/Mods/OldSeaPort/textures/Log_End_2.png
+- Assets/Mods/OldSeaPort/textures/Rooftiles_normal.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/MetalSurface.mat
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Stone.prefab
+- Assets/Mods/OldSeaPort/prefabs/dock_1.prefab
+- Assets/Mods/OldSeaPort/textures/Bark_Grey.png
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_right.tif
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Sand.physicMaterial
+- Assets/Mods/OldSeaPort/Materials/Cobblestone_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/Materials/Barrel_MaskMap.png
+- Assets/Mods/OldSeaPort/prefabs/building_segment_4.prefab
+- Assets/Mods/OldSeaPort/mesh/boat_2.fbx
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_front.tif
+- Assets/Mods/OldSeaPort/textures/Brick_Wall_Occlusion.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/WaterFilledExtinguish.physicMaterial
+- Assets/Mods/OldSeaPort/prefabs/boat_1.prefab
+- Assets/Mods/OldSeaPort/Materials/Log_End_Shiny.mat
+- Assets/Mods/OldSeaPort/Materials/Barrel_Shiny.mat
+- Assets/Mods/OldSeaPort/textures/Clouds Cookie.tif
+- Assets/Mods/OldSeaPort/mesh/building_segment_1.fbx
+- Assets/Mods/OldSeaPort/prefabs/boat_2.prefab
+- Assets/Mods/OldSeaPort/textures/Bark_Grey_Metallic.png
+- Assets/Mods/OldSeaPort/mesh/mooring_rope_holder.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/BackgroundAlbedo.tif
+- Assets/Mods/OldSeaPort/prefabs/tower_extension.prefab
+- Assets/Mods/OldSeaPort/Materials/Bark_Grey_MaskMap.png
+- Assets/Mods/OldSeaPort/prefabs/stairs_wood_spiral.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Character.physicMaterial
+- Assets/Mods/OldSeaPort/textures/Log_End_Occlusion.png
+- Assets/Mods/OldSeaPort/prefabs/Old Sea Port_Tree.prefab
+- Assets/Mods/OldSeaPort/Materials/Bark_Grey.mat
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Extinguish.prefab
+- Assets/Mods/OldSeaPort/prefabs/tower.prefab
+- Assets/Mods/OldSeaPort/prefabs/barrel.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif
+- Assets/Mods/OldSeaPort/textures/Brick_wall_normal.png
+- Assets/Mods/OldSeaPort/prefabs/workbench.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif
+- Assets/Mods/OldSeaPort/prefabs/fireplace.prefab
+- Assets/Mods/OldSeaPort/mesh/rope_3.fbx
+- Assets/Mods/OldSeaPort/Materials/lamp_1_MaskMap.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/fleshNormals.tif
+- Assets/Mods/OldSeaPort/textures/Rooftiles_Metallic.png
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif
+- Assets/Mods/OldSeaPort/prefabs/tower_short.prefab
+- Assets/Mods/OldSeaPort/mesh/lamp_1.fbx
+- Assets/Mods/OldSeaPort/Water/Old Sea Port_Water.mat
+- Assets/Mods/OldSeaPort/textures/planks_1_Metallic.png
+- Assets/Mods/OldSeaPort/textures/Barrel_Metallic 2.png
+- Assets/Mods/OldSeaPort/textures/Bark_Grey_normal.png
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat
+- Assets/Mods/OldSeaPort/prefabs/mooring_rope_holder_3.prefab
+- Assets/Mods/OldSeaPort/textures/Barrel_Metallic.png
+- Assets/Mods/OldSeaPort/mesh/Wood Canopy.fbx
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_back.tif
+- Assets/Mods/OldSeaPort/Materials/Log_End_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_2_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/Skybox.mat
+- Assets/Mods/OldSeaPort/mesh/building_segment_6.fbx
+- Assets/Mods/OldSeaPort/Materials/lamp_1.mat
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/ParticlesLight.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Stone.physicMaterial
+- Assets/Mods/OldSeaPort/Materials/Rooftiles_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/Materials/Barrel.mat
+- Assets/Mods/OldSeaPort/prefabs/mooring_rope_holder_2.prefab
+- Assets/Mods/OldSeaPort/mesh/ladder_1.fbx
+- Assets/Mods/OldSeaPort/prefabs/building_segment_3.prefab
+- Assets/Mods/OldSeaPort/textures/Brick_Wall_Metallic 2.png
+- Assets/Mods/OldSeaPort/prefabs/bottle.prefab
+- Assets/Mods/OldSeaPort/Materials/fence.mat
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/WaterFilled.physicMaterial
+- Assets/Mods/OldSeaPort/mesh/building_segment_3.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/wood_tiled_02_n.tif
+- Assets/Mods/OldSeaPort/mesh/Materials/No Name.mat
+- Assets/Mods/OldSeaPort/Materials/Barrel_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/textures/Canvas_Normal.png
+- Assets/Mods/OldSeaPort/mesh/fence_segment_2.fbx
+- Assets/Mods/OldSeaPort/textures/planks_1_Metallic 2.png
+- Assets/Mods/OldSeaPort/textures/planks_1.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/StoneSurface.mat
+- Assets/Mods/OldSeaPort/Materials/Cobblestone_Shiny.mat
+- Assets/Mods/OldSeaPort/prefabs/Rain.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Wood.physicMaterial
+- Assets/Mods/OldSeaPort/Materials/Canvas.mat
+- Assets/Mods/OldSeaPort/mesh/post_2.fbx
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_1.mat
+- Assets/Mods/OldSeaPort/mesh/crate_1.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/Background.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+- Assets/Mods/OldSeaPort/Materials/Iron_1_MaskMap.png
+- Assets/Mods/OldSeaPort/mesh/brick_wall_1.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_up.tif
+- Assets/Mods/OldSeaPort/mesh/workbench.fbx
+- Assets/Mods/OldSeaPort/prefabs/fence_gate.prefab
+- Assets/Mods/OldSeaPort/mesh/Materials/Bark_Grey_1.mat
+- Assets/Mods/OldSeaPort/Materials/Dirt.mat
+- Assets/Mods/OldSeaPort/textures/Cobblestone_Metallic.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Flesh.prefab
+- Assets/Mods/OldSeaPort/textures/Brick_Wall_Metallic.png
+- Assets/Mods/OldSeaPort/prefabs/lamp_1.prefab
+- Assets/Mods/OldSeaPort/prefabs/Cube 48.prefab
+- Assets/Mods/OldSeaPort/Materials/Rooftiles.mat
+- Assets/Mods/OldSeaPort/mesh/circular_table.fbx
+- Assets/Mods/OldSeaPort/prefabs/fence_segment_2.prefab
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_left.tif
+- Assets/Mods/OldSeaPort/prefabs/fence_segment_1.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/FleshSurface.mat
+- Assets/Mods/OldSeaPort/Materials/Bottle.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/wood_tiled_02_o.tif
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Cubemap.png
+- Assets/Mods/OldSeaPort/mesh/Materials/Material.011.mat
+- Assets/Mods/OldSeaPort/textures/Cobblestone_Occlusion.png
+- Assets/Mods/OldSeaPort/mesh/hammer.fbx
+- Assets/Mods/OldSeaPort/textures/Generic_Metal_1.png
+- Assets/Mods/OldSeaPort/textures/fence_1.png
+- Assets/Mods/OldSeaPort/Materials/Bottle_MaskMap.png
+- Assets/Mods/OldSeaPort/textures/lamp_1.png
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_down_1024.tiff
+- Assets/Mods/OldSeaPort/textures/planks_1_normal.png
+- Assets/Mods/OldSeaPort/textures/Log_End_1.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/CloudsAlpha.tif
+- Assets/Mods/OldSeaPort/Materials/SkyEerie.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat
+- Assets/Mods/OldSeaPort/prefabs/circular_table.prefab
+- Assets/Mods/OldSeaPort/mesh/Materials/Material.007.mat
+- Assets/Mods/OldSeaPort/prefabs/mooring_rope_holder_1.prefab
+- Assets/Mods/OldSeaPort/Water/Stream_Detail_Normals.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/WaterFilled.prefab
+- Assets/Mods/OldSeaPort/Materials/Dirt_MaskMap.png
+- Assets/Mods/OldSeaPort/textures/Cobblestone.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Sand.prefab
+- Assets/Mods/OldSeaPort/prefabs/rope_3.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/wood_tiled_02_a.tif
+- Assets/Mods/OldSeaPort/prefabs/chair.prefab
+- Assets/Mods/OldSeaPort/mesh/fence_segment_1.fbx
+- Assets/Mods/OldSeaPort/Materials/Iron_1.mat
+- Assets/Mods/OldSeaPort/mesh/chair.fbx
+- Assets/Mods/OldSeaPort/mesh/fence_gate.fbx
+- Assets/Mods/OldSeaPort/mesh/barrel.fbx
+- Assets/Mods/OldSeaPort/Skyboxes/Textures/Eerie/Eerie_down.tif
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif
+- Assets/Mods/OldSeaPort/mesh/dock_2.fbx
+- Assets/Mods/OldSeaPort/mesh/dock_1.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
+- Assets/Mods/OldSeaPort/Materials/planks_shiny.mat
+- Assets/Mods/OldSeaPort/Materials/planks_MaskMap.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/SandSurface.mat
+- Assets/Mods/OldSeaPort/mesh/fireplace.fbx
+- Assets/Mods/OldSeaPort/prefabs/ladder_1.prefab
+- Assets/Mods/OldSeaPort/textures/dirt_1.png
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_1_MaskMap.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Metal.physicMaterial
+- Assets/Mods/OldSeaPort/prefabs/plane 12.prefab
+- Assets/Mods/OldSeaPort/mesh/boat_1.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/DarkDefault.mat
+- Assets/Mods/OldSeaPort/prefabs/brick_wall_1.prefab
+- Assets/Mods/OldSeaPort/textures/dirt_1_specular.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Metal.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/WoodSurface_MaskMap.png
+- Assets/Mods/OldSeaPort/prefabs/building_segment_2.prefab
+- Assets/Mods/OldSeaPort/mesh/stairs_wood_spiral.fbx
+- Assets/Mods/OldSeaPort/Materials/rope.mat
+- Assets/Mods/OldSeaPort/prefabs/Log_1.prefab
+- Assets/Mods/OldSeaPort/mesh/mooring_rope_holder_2.fbx
+- Assets/Mods/OldSeaPort/Materials/planks.mat
+- Assets/Mods/OldSeaPort/textures/Barrel_Normal.png
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat
+- Assets/Mods/OldSeaPort/mesh/brick_tree_base.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/StoneNormals.tif
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Materials/WoodSurface.mat
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_2_MaskMap.png
+- Assets/Mods/OldSeaPort/ModManifest.asset
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png
+- Assets/Mods/OldSeaPort/mesh/Old Sea Port_Tree.fbx
+- Assets/Mods/OldSeaPort/prefabs/building_segment_5.prefab
+- Assets/Mods/OldSeaPort/textures/Generic_Metal_3.png
+- Assets/Mods/OldSeaPort/mesh/tower.fbx
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_2.mat
+- Assets/Mods/OldSeaPort/Materials/Lamp_Glow.mat
+- Assets/Mods/OldSeaPort/Materials/Brick Wall_2_Shiny.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png
+- Assets/Mods/OldSeaPort/prefabs/brick_tree_base.prefab
+- Assets/Mods/OldSeaPort/textures/branch_maple_translucency.png
+- Assets/Mods/OldSeaPort/Materials/Log_End.mat
+- Assets/Mods/OldSeaPort/prefabs/hammer.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/WoodAlbedo.tif
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/WoodNormals.tif
+- Assets/Mods/OldSeaPort/textures/branch_maple.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Prefabs/Wood.prefab
+- Assets/Mods/OldSeaPort/Materials/Bark_Grey_Shiny.mat
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif
+- Assets/Mods/OldSeaPort/textures/Barrel.png
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/CloudsOcclusion.tif
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/CloudsNormals.tif
+- Assets/Mods/OldSeaPort/textures/Rooftiles.png
+- Assets/Mods/OldSeaPort/mesh/tower_short.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/PhysicsMaterials/Meat.physicMaterial
+- Assets/Mods/OldSeaPort/prefabs/Materials/maple_leaves__BigTree_leaves_png.mat
+- Assets/Mods/OldSeaPort/prefabs/building_segment_6.prefab
+- Assets/Mods/OldSeaPort/mesh/building_segment_4.fbx
+- Assets/Mods/OldSeaPort/mesh/log_1.fbx
+- Assets/Mods/OldSeaPort/mesh/post_1.fbx
+- Assets/Mods/OldSeaPort/textures/rope.png
+- Assets/Mods/OldSeaPort/textures/Bark_Grey_4.png
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat
+- Assets/Mods/OldSeaPort/mesh/Materials/Material.013.mat
+- Assets/Mods/OldSeaPort/prefabs/crate_2.prefab
+- Assets/Mods/OldSeaPort/mesh/building_segment_5.fbx
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Materials/ShockWaveParticle.mat
+- Assets/Mods/OldSeaPort/mesh/Materials/planks_6.mat
+- Assets/Mods/OldSeaPort/mesh/Materials/Log_End_1.mat
+- Assets/Mods/OldSeaPort/prefabs/crate_1.prefab
+- Assets/Mods/OldSeaPort/prefabs/building_segment_1.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab
+- Assets/Mods/OldSeaPort/prefabs/Plank_1.prefab
+- Assets/Mods/OldSeaPort/prefabs/post_2.prefab
+- Assets/Mods/OldSeaPort/textures/Bark_Grey_Metallic 2.png
+- Assets/Mods/OldSeaPort/textures/rope_normal.png
+- Assets/Mods/OldSeaPort/prefabs/post_1.prefab
+- Assets/Mods/OldSeaPort/EffectExamples/Shared/Textures/StoneAlbedo.tif
+- Assets/Mods/OldSeaPort/Materials/planks_shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/mesh/Materials/Material.012.mat
+- Assets/Mods/OldSeaPort/prefabs/dock_2.prefab
+- Assets/Mods/OldSeaPort/mesh/crate_2.fbx
+- Assets/Mods/OldSeaPort/textures/Brick_wall_1.png
+- Assets/Mods/OldSeaPort/mesh/tower_extension.fbx
+- Assets/Mods/OldSeaPort/Materials/Bark_Grey_Shiny_MaskMap.png
+- Assets/Mods/OldSeaPort/textures/Bark_Grey_3.png
+- Assets/Mods/OldSeaPort/Materials/Log_End_MaskMap.png
+- Assets/Mods/OldSeaPort/mesh/bottle.fbx
+- Assets/Mods/OldSeaPort/mesh/plank_1.fbx
+- Assets/Mods/OldSeaPort/mesh/building_segment_2.fbx
+- Assets/Mods/OldSeaPort/textures/Canvas.png
+Dependencies: []

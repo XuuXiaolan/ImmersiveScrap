@@ -1,0 +1,346 @@
+ManifestFileVersion: 0
+CRC: 957347299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef43e92da7c61d92b431910c4cfa1f08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4111490cb6b91255fd85cc187902ecb5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ef43e92da7c61d92b431910c4cfa1f08
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.AudioClipInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage_nrm.png
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/can paint/can_paint_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/hammer/hammer.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox2_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/canteen/canteen.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/clamp/clamp_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball_bat.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy_diff1.png
+- Assets/Mods/ImmersiveScraps/items/scraps/jerrycan/jerrycan.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/canteen/canteen.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/wine/wine_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/car_battery/car_battery_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/hammer/hammer.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brick.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/can paint/can paint.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/cone/cone.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plunger.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/sink/sink.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wrench/wrench.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/vent/vent.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/canned food/canned food.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/canned food/canned food_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/extinguisher/extinguisher_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/canned food/canned food.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/jerrycan/jerrycan.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/screwdriver/screwdriver.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/car_battery/car_battery.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster2_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/canned food/canned food.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library lamp.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/screwdriver/screwdriver.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeakydrop.wav
+- Assets/Mods/ImmersiveScraps/items/scraps/keyboard/keyboard_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/clamp/clamp.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball_bat_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/suitcase/suitcase_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brick.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/canteen/canteen.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/jerrycan/jerrycan.png
+- Assets/Mods/ImmersiveScraps/items/scraps/jerrycan/jerrycan.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer_can_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/jerrycan/jerrycan.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/broken engine/broken_engine.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library_lamp.png
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight_emi.png
+- Assets/Mods/ImmersiveScraps/items/scraps/clamp/clamp.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brick.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plunger.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/alcohol flask/alcohol_flask.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/watering can/watering can.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/keyboard/keyboard.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/sink/sink.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/sink/sink.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/screwdriver/screwdriver.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/suitcase/suitcase.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/suitcase/suitcase.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fireaxe/fireaxe.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/pliers/pliers.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting3_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/can paint/can paint.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern_emi.png
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox4_diff.png
+- Assets/Mods/ImmersiveScraps/immersivescrapsassetbank.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/watering can/watering_can.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/watering can/watering can.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock.png
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/can paint/can_paint.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/keyboard/keyboard.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/extinguisher/extinguisher.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/wine/wine.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library lamp.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeaky_toy.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant2.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy_diff3.png
+- Assets/Mods/ImmersiveScraps/items/scraps/broken engine/broken_engine_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/car_battery/car_battery.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brick.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan_diff.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plunger.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/can paint/can paint.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wine/wine.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/vent/vent.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/top hat/top_hat_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel.mat
+- Assets/Mods/ImmersiveScraps/modmanifest.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/watering can/watering_can_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting 3.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/pliers/pliers.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/wrench/wrench.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer_can_diff3.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting_smooth.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/socket_wrench/socket_wrench.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant_nrm.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/sink/sink.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library_lamp_emi.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fireaxe/fireaxe.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/retro toy/retro_toy.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/vent/vent.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/fan/fan 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/firehydrant2_nrm.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fireaxe/fireaxe.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeaky_toy.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel_nrm.png
+- Assets/Mods/ImmersiveScraps/items/scraps/cone/cone.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/retro toy/retro toy.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant_t.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/canteen/canteen.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/clamp/clamp.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/car_battery/car_battery.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/vent/vent_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/screwdriver/screwdriver_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/car_battery/car_battery.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy_emi.png
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/keyboard/keyboard.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeaky_toy.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clocknoise1.mp3
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brickgrab.mp3
+- Assets/Mods/ImmersiveScraps/items/scraps/wine/wine.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster 3.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/watering can/watering can.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/pliers/pliers.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/top hat/top hat.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/socket_wrench/socket_wrench.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox3_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/wine/wine.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/hammer/hammer.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock3.png
+- Assets/Mods/ImmersiveScraps/items/scraps/sink/sink_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeakyscream.wav
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting4_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/socket_wrench/socket_wrench.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/alcohol flask/alcohol_flask_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant_diff.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/vent/vent.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/firehydrant2_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/canned food/canned food.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/extinguisher/extinguisher.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/cone/cone.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clamp/clamp.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/plant/plant.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil_nrm.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeaty_toy.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/fireaxe/fireaxe_diff 1.png
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wrench/wrench.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/alcohol flask/alcohol_flask.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/pliers/pliers_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/alcohol flask/alcohol_flask.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil_diff.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/screwdriver/screwdriver.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster3_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/pliers/pliers.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/top hat/top hat.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library lamp.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball bat.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/beer/beer_can_diff2.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/hammer/hammer.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/canteen/canteen_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plunger.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy_diff2.png
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/library lamp/library_lamp.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball bat.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brick.png
+- Assets/Mods/ImmersiveScraps/items/scraps/socket_wrench/socket_wrench_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster4_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/broken engine/broken engine.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plungerhit1.mp3
+- Assets/Mods/ImmersiveScraps/items/scraps/toaster/toaster 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fireaxe/fireaxe.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/fire hydrant/fire hydrant 2.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/suitcase/suitcase.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/suitcase/suitcase.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plungerhit2.mp3
+- Assets/Mods/ImmersiveScraps/items/scraps/brick/brickdrop.mp3
+- Assets/Mods/ImmersiveScraps/items/scraps/anvil/anvil 1.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy_painting2_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/bucket/bucket_diff2.png
+- Assets/Mods/ImmersiveScraps/items/scraps/wheel/wheel.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/broken engine/broken engine.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/fancy painting/fancy painting 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/extinguisher/extinguisher.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/alcohol flask/alcohol_flask.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/plunger/plunger_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeakygrab.wav
+- Assets/Mods/ImmersiveScraps/items/scraps/cone/cone.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/retro toy/retro toy.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball bat.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/garbage/garbage.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/squeaky toy/squeaky_toy_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/extinguisher/extinguisher.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/toolbox/toolbox 3.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/hammer/hammer_diff.jpg
+- Assets/Mods/ImmersiveScraps/items/scraps/lantern/lantern.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/heavy_flashlight/heavy_flashlight_on.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/wrench/wrench_diff.tga
+- Assets/Mods/ImmersiveScraps/items/scraps/top hat/top_hat.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/retro toy/retro toy.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/top hat/top hat.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/retro toy/retro_toy_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/cone/cone_diff.png
+- Assets/Mods/ImmersiveScraps/items/scraps/gameboy/gameboy 1.mat
+- Assets/Mods/ImmersiveScraps/items/scraps/clock/clock2.png
+- Assets/Mods/ImmersiveScraps/items/scraps/keyboard/keyboard.asset
+- Assets/Mods/ImmersiveScraps/items/scraps/wrench/wrench.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/broken engine/broken engine.prefab
+- Assets/Mods/ImmersiveScraps/items/scraps/baseball bat/baseball_bat2.fbx
+- Assets/Mods/ImmersiveScraps/items/scraps/socket_wrench/socket_wrench.fbx
+Dependencies:
+- C:/Users/miche/Desktop/LethalSDK_ProjectX/Assets/AssetBundle/lethalexpansion.lem
+- C:/Users/miche/Desktop/LethalSDK_ProjectX/Assets/AssetBundle/oldseaport.lem

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -194780425, guid: aca0e870cf8eb8346939126306b732e1, type: 3}
+  m_Name: ImmersiveScrapsExtendedMod
+  m_EditorClassIdentifier: 
+  <ModName>k__BackingField: ImmersiveScraps
+  <AuthorName>k__BackingField: XuXiaolan
+  <ModMergeSetting>k__BackingField: 0
+  <ExtendedLevels>k__BackingField: []
+  <ExtendedDungeonFlows>k__BackingField: []
+  <ExtendedItems>k__BackingField:
+  - {fileID: 11400000, guid: 2d8abf15c353cc54c8518615478eaedd, type: 2}
+  - {fileID: 11400000, guid: e79afcca003f703438941c732eeee8c7, type: 2}
+  - {fileID: 11400000, guid: 0b35419e7812fe9479265e047098218a, type: 2}
+  - {fileID: 11400000, guid: e5bc3ac708866644b978c170b29b982b, type: 2}
+  - {fileID: 11400000, guid: 929e24be074fabe40a0531c91b1d844a, type: 2}
+  - {fileID: 11400000, guid: 7a7260bf13a0fc5428aaceabcee9d237, type: 2}
+  - {fileID: 11400000, guid: 620bf4a045ddbd443ad99375268ed894, type: 2}
+  - {fileID: 11400000, guid: 5f835702b6e7e3f44a991b1cb525e5e7, type: 2}
+  - {fileID: 11400000, guid: 2313ab3d3c75363418c530f8c1170f44, type: 2}
+  - {fileID: 11400000, guid: 76188529854c200419b3408deb45afe7, type: 2}
+  - {fileID: 11400000, guid: 4caba15bd8818cf43b31fab6eb1378d7, type: 2}
+  - {fileID: 11400000, guid: 44c2dfc477b30eb48a73c82183e35557, type: 2}
+  - {fileID: 11400000, guid: 0f6f914374707444eb82b8e7499bcf3b, type: 2}
+  - {fileID: 11400000, guid: e3140a566c8515c4a83c1447f4488fd4, type: 2}
+  - {fileID: 11400000, guid: 959c52700022185489012012269a4d63, type: 2}
+  - {fileID: 11400000, guid: 14d86352879b36148bcff3adc72207e0, type: 2}
+  - {fileID: 11400000, guid: 26aeadaf9047af34e94dd15eb5897ca3, type: 2}
+  - {fileID: 11400000, guid: eccf992767eb300478cc2c34f522838f, type: 2}
+  - {fileID: 11400000, guid: c975cb90a2297764b8c9e60a4a107c77, type: 2}
+  - {fileID: 11400000, guid: d1d2d7aa6fcbc524fb8f605e1986fae8, type: 2}
+  - {fileID: 11400000, guid: a07d56ba8ab5054478cf12cf9a3a8fb9, type: 2}
+  - {fileID: 11400000, guid: 5e71a02e0cb685c479901c430efe0830, type: 2}
+  - {fileID: 11400000, guid: c9d2368f3ba067142a4c2722513c3961, type: 2}
+  - {fileID: 11400000, guid: 6203e701b33a03b4a848c9946a845724, type: 2}
+  - {fileID: 11400000, guid: 0f60cdae30f85ad44b34866ccb167a25, type: 2}
+  - {fileID: 11400000, guid: a3228345ed71d5147a7daae338f200c0, type: 2}
+  - {fileID: 11400000, guid: 4a3c6f723e6b7f041a4165281fa16538, type: 2}
+  - {fileID: 11400000, guid: f91e10bc2f6566f4cb73d3362facf645, type: 2}
+  - {fileID: 11400000, guid: 47c5cfda0f8d3174c9734bc76a51e705, type: 2}
+  - {fileID: 11400000, guid: a85c9167eab38f54696bdff83da00f0e, type: 2}
+  - {fileID: 11400000, guid: 545b496a6789319408d348df5db6df32, type: 2}
+  - {fileID: 11400000, guid: 4dd5eb9e8ee37ad4fa115b7e4098508d, type: 2}
+  - {fileID: 11400000, guid: bbceaab2c0132e04d87f1176a24c243c, type: 2}
+  - {fileID: 11400000, guid: 47b1dcc72750b9d44864f5dcdb9b58a8, type: 2}
+  - {fileID: 11400000, guid: 0c2ca9a278f398c4f95dc137b54c2bb3, type: 2}
+  - {fileID: 11400000, guid: 5e747b810fbc3b84d93c93ab6305f294, type: 2}
+  - {fileID: 11400000, guid: e58cd9ac6f86f7649b88059f7ca69b60, type: 2}
+  - {fileID: 11400000, guid: 8e8ad0100d5bfcd498a3ded999d4f771, type: 2}
+  - {fileID: 11400000, guid: e1144b43fcca9f34d84e980a05351f3e, type: 2}
+  - {fileID: 11400000, guid: 3dc9dddbeec87aa4ba2a8e9a1a324a9b, type: 2}
+  - {fileID: 11400000, guid: d76ef78e83c32ea4da553e95a5543245, type: 2}
+  - {fileID: 11400000, guid: 5a1a319cecc97d444ab6b5548b359c43, type: 2}
+  - {fileID: 11400000, guid: 9b7afcce6a6210849bd1cc87e1e53a43, type: 2}
+  <ExtendedEnemyTypes>k__BackingField: []
+  <ExtendedWeatherEffects>k__BackingField: []
+  <ExtendedFootstepSurfaces>k__BackingField: []
+  <ExtendedStoryLogs>k__BackingField: []

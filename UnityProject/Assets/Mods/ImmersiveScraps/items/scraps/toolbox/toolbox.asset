@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: toolbox
+  m_EditorClassIdentifier: 
+  RequiredBundles: []
+  IncompatibleBundles: []
+  scrapType: 0
+  itemName: Toolbox
+  minValue: 100
+  maxValue: 190
+  twoHanded: 0
+  HandedAnimation: 0
+  requiresBattery: 0
+  isConductiveMetal: 1
+  weight: 20
+  prefab: {fileID: 1985338178271116, guid: 850fa8f81bbd81b45a2692d1a29d1872, type: 3}
+  grabSFX: 
+  dropSFX: 
+  verticalOffset: 0
+  restingRotation: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.097, y: 0.152, z: -0.137}
+  rotationOffset: {x: 8.909727, y: 352.68777, z: 268.85223}
+  meshVariants: []
+  materialVariants:
+  - {fileID: 2100000, guid: 8a69eaea5c6987f41910836e1904d3ff, type: 2}
+  - {fileID: 2100000, guid: eba0093fa405a524cbf265fda6e9743d, type: 2}
+  - {fileID: 2100000, guid: 4abec1bc4d42f1148a5a9de6b7b0d99e, type: 2}
+  useGlobalSpawnWeight: 0
+  globalSpawnWeight: 12
+  _perPlanetSpawnWeight:
+  - SceneName: 41 Experimentation
+    SpawnWeight: 4
+  - SceneName: 220 Assurance
+    SpawnWeight: 6
+  - SceneName: 56 Vow
+    SpawnWeight: 8
+  - SceneName: 21 Offense
+    SpawnWeight: 10
+  - SceneName: 61 March
+    SpawnWeight: 14
+  - SceneName: 85 Rend
+    SpawnWeight: 16
+  - SceneName: 7 Dine
+    SpawnWeight: 16
+  - SceneName: 8 Titan
+    SpawnWeight: 10
+  - SceneName: Others
+    SpawnWeight: 12
+  - SceneName: 112 Aquatis
+    SpawnWeight: 12
+  - SceneName: 28 Celest
+    SpawnWeight: 15
+  - SceneName: 43 Orion
+    SpawnWeight: 15
+  playetSpawnBlacklist: []
+  shovelHitForce: 1
+  shovelAudio: {fileID: 0}
+  reelUp: ShovelReelUp
+  swing: ShovelSwing
+  hitSFX:
+  - ShovelHitDefault
+  - ShovelHitDefault2
+  usingPlayerHelmetLight: 0
+  flashlightInterferenceLevel: 0
+  flashlightBulb: {fileID: 0}
+  flashlightBulbGlow: {fileID: 0}
+  flashlightAudio: {fileID: 0}
+  flashlightClips:
+  - FlashlightClick
+  outOfBatteriesClip: FlashlightOutOfBatteries
+  flashlightFlicker: FlashlightFlicker
+  bulbLight: {fileID: 0}
+  bulbDark: {fileID: 0}
+  flashlightMesh: {fileID: 0}
+  flashlightTypeID: 0
+  changeMaterial: 1
+  noiseAudio: {fileID: 0}
+  noiseAudioFar: {fileID: 0}
+  noiseSFX:
+  - ClownHorn1
+  noiseSFXFar:
+  - ClownHornFar
+  noiseRange: 60
+  maxLoudness: 1
+  minLoudness: 0.6
+  minPitch: 0.93
+  maxPitch: 1
+  triggerAnimator: {fileID: 0}
+  whoopieCushionAudio: {fileID: 0}
+  fartAudios:
+  - Fart1
+  - Fart2
+  - Fart3
+  - Fart5
+  serializedData: 41 Experimentation,4;220 Assurance,6;56 Vow,8;21 Offense,10;61
+    March,14;85 Rend,16;7 Dine,16;8 Titan,10;Others,12

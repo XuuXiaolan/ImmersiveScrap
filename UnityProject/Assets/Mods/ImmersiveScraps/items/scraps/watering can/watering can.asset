@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: watering can
+  m_EditorClassIdentifier: 
+  RequiredBundles: []
+  IncompatibleBundles: []
+  scrapType: 0
+  itemName: Watering Can
+  minValue: 80
+  maxValue: 160
+  twoHanded: 0
+  HandedAnimation: 0
+  requiresBattery: 0
+  isConductiveMetal: 1
+  weight: 15
+  prefab: {fileID: 1985338178271116, guid: 9453e5e6ea260744dbc6dcba546bab48, type: 3}
+  grabSFX: 
+  dropSFX: 
+  verticalOffset: 0
+  restingRotation: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.331, y: 0.315, z: 0.062}
+  rotationOffset: {x: 271.86823, y: 293.43066, z: 346.9415}
+  meshVariants: []
+  materialVariants: []
+  useGlobalSpawnWeight: 0
+  globalSpawnWeight: 15
+  _perPlanetSpawnWeight:
+  - SceneName: 41 Experimentation
+    SpawnWeight: 10
+  - SceneName: 220 Assurance
+    SpawnWeight: 12
+  - SceneName: 56 Vow
+    SpawnWeight: 12
+  - SceneName: 21 Offense
+    SpawnWeight: 18
+  - SceneName: 61 March
+    SpawnWeight: 18
+  - SceneName: 85 Rend
+    SpawnWeight: 12
+  - SceneName: 7 Dine
+    SpawnWeight: 12
+  - SceneName: 8 Titan
+    SpawnWeight: 12
+  - SceneName: Others
+    SpawnWeight: 12
+  - SceneName: 112 Aquatis
+    SpawnWeight: 4
+  - SceneName: 28 Celest
+    SpawnWeight: 30
+  - SceneName: 43 Orion
+    SpawnWeight: 20
+  shovelHitForce: 1
+  isHoldingButton: 0
+  shovelAudio: {fileID: 0}
+  reelUp: ShovelReelUp
+  swing: ShovelSwing
+  hitSFX:
+  - ShovelHitDefault
+  - ShovelHitDefault2
+  usingPlayerHelmetLight: 0
+  flashlightInterferenceLevel: 0
+  flashlightBulb: {fileID: 0}
+  flashlightBulbGlow: {fileID: 0}
+  flashlightAudio: {fileID: 0}
+  flashlightClips:
+  - FlashlightClick
+  outOfBatteriesClip: FlashlightOutOfBatteries
+  flashlightFlicker: FlashlightFlicker
+  bulbLight: {fileID: 0}
+  bulbDark: {fileID: 0}
+  flashlightMesh: {fileID: 0}
+  flashlightTypeID: 0
+  changeMaterial: 1
+  noiseAudio: {fileID: 0}
+  noiseAudioFar: {fileID: 0}
+  noiseSFX:
+  - ClownHorn1
+  noiseSFXFar:
+  - ClownHornFar
+  noiseRange: 60
+  maxLoudness: 1
+  minLoudness: 0.6
+  minPitch: 0.93
+  maxPitch: 1
+  triggerAnimator: {fileID: 0}
+  whoopieCushionAudio: {fileID: 0}
+  fartAudios:
+  - Fart1
+  - Fart2
+  - Fart3
+  - Fart5
+  serializedData: 41 Experimentation,10;220 Assurance,12;56 Vow,12;21 Offense,18;61
+    March,18;85 Rend,12;7 Dine,12;8 Titan,12;Others,12

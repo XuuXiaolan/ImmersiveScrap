@@ -1,0 +1,428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: OldSeaPortMoon
+  m_EditorClassIdentifier: 
+  MoonName: Wateridge
+  RequiredBundles:
+  - oldseaport
+  IncompatibleBundles: []
+  IsEnabled: 1
+  IsHidden: 0
+  IsLocked: 0
+  OrbitPrefabName: OldSeaPortPlanetPrefab
+  SpawnEnemiesAndScrap: 1
+  PlanetName: 102 Wateridge
+  MainPrefab: {fileID: 7893818475220501376, guid: 5fff06d78c7b6254da586ea672d29773,
+    type: 3}
+  PlanetDescription: 'A warm, temperate moon, once frozen but now warmed by intense
+    industrial exploitation to harvest a bacterial strain from its ice.
+
+    It was
+    named for its active tectonic plates that created magnificent mountains of pure,
+    incandescent ice under the sun''s rays in a clear, carbon-free atmosphere.
+
+    Though
+    the atmosphere became breathable after it''s pollution, it was at the cost of
+    its solid surface.
+
+    Tectonic plates and water did not get along well during
+    the early melting of the moon, which is why the majority of the population left
+    the planet.
+
+    But there are no more plates anymore, the remaining population
+    eventually left as a result of the numerous space travels that brought various
+    stowaway megafaunas to the remaining floating platforms on the Moon.'
+  PlanetLore: 
+  PlanetVideo: {fileID: 32900000, guid: da94c31b219310c499000f821e27da43, type: 3}
+  RiskLevel: S
+  TimeToArrive: 4
+  DaySpeedMultiplier: 1
+  PlanetHasTime: 1
+  _RandomWeatherTypes:
+  - Weather: -1
+    WeatherVariable1: 0
+    WeatherVariable2: 0
+  - Weather: 1
+    WeatherVariable1: 0
+    WeatherVariable2: 0
+  - Weather: 2
+    WeatherVariable1: 1
+    WeatherVariable2: 0
+  - Weather: 3
+    WeatherVariable1: 1
+    WeatherVariable2: 0
+  - Weather: 5
+    WeatherVariable1: 1
+    WeatherVariable2: 0
+  OverwriteWeather: 0
+  OverwriteWeatherType: -1
+  RouteWord: wateridge
+  RoutePrice: 0
+  BoughtComment: BEWARE! High danger.
+  FactorySizeMultiplier: 3
+  FireExitsAmountOverwrite: 2
+  _DungeonFlowTypes:
+  - ID: 0
+    Rarity: 300
+  - ID: 1
+    Rarity: 20
+  _SpawnableScrap:
+  - ObjectName: Cog1
+    SpawnWeight: 23
+  - ObjectName: EnginePart1
+    SpawnWeight: 19
+  - ObjectName: FishTestProp
+    SpawnWeight: 86
+  - ObjectName: MetalSheet
+    SpawnWeight: 40
+  - ObjectName: FlashLaserPointer
+    SpawnWeight: 10
+  - ObjectName: BigBolt
+    SpawnWeight: 33
+  - ObjectName: BottleBin
+    SpawnWeight: 19
+  - ObjectName: Ring
+    SpawnWeight: 3
+  - ObjectName: SteeringWheel
+    SpawnWeight: 26
+  - ObjectName: MoldPan
+    SpawnWeight: 5
+  - ObjectName: EggBeater
+    SpawnWeight: 13
+  - ObjectName: PickleJar
+    SpawnWeight: 10
+  - ObjectName: DustPan
+    SpawnWeight: 32
+  - ObjectName: Airhorn
+    SpawnWeight: 5
+  - ObjectName: ClownHorn
+    SpawnWeight: 5
+  - ObjectName: CashRegister
+    SpawnWeight: 4
+  - ObjectName: GoldBar
+    SpawnWeight: 2
+  - ObjectName: YieldSign
+    SpawnWeight: 6
+  - ObjectName: battery
+    SpawnWeight: 10
+  - ObjectName: cannedfood
+    SpawnWeight: 15
+  - ObjectName: matchbox
+    SpawnWeight: 5
+  - ObjectName: pills
+    SpawnWeight: 2
+  - ObjectName: tape
+    SpawnWeight: 20
+  - ObjectName: Bell
+    SpawnWeight: 17
+  - ObjectName: RubberDuck
+    SpawnWeight: 22
+  - ObjectName: DiyFlashbang
+    SpawnWeight: 12
+  - ObjectName: GiftBox
+    SpawnWeight: 22
+  - ObjectName: Flask
+    SpawnWeight: 22
+  - ObjectName: WhoopieCushion
+    SpawnWeight: 11
+  - ObjectName: ComedyMask
+    SpawnWeight: 12
+  - ObjectName: TragedyMask
+    SpawnWeight: 18
+  - ObjectName: 7Ball
+    SpawnWeight: 11
+  - ObjectName: Dentures
+    SpawnWeight: 13
+  - ObjectName: PerfumeBottle
+    SpawnWeight: 17
+  - ObjectName: ChemicalJug
+    SpawnWeight: 22
+  - ObjectName: Brush
+    SpawnWeight: 27
+  - ObjectName: Hairdryer
+    SpawnWeight: 26
+  - ObjectName: SodaCanRed
+    SpawnWeight: 20
+  - ObjectName: Phone
+    SpawnWeight: 15
+  - ObjectName: MagnifyingGlass
+    SpawnWeight: 10
+  - ObjectName: RobotToy
+    SpawnWeight: 8
+  - ObjectName: ToyCube
+    SpawnWeight: 14
+  - ObjectName: Candy
+    SpawnWeight: 13
+  - ObjectName: Toothpaste
+    SpawnWeight: 13
+  - ObjectName: FancyLamp
+    SpawnWeight: 5
+  - ObjectName: FancyCup
+    SpawnWeight: 11
+  - ObjectName: FancyPainting
+    SpawnWeight: 8
+  spawnableScrapBlacklist: []
+  MinScrap: 22
+  MaxScrap: 32
+  LevelAmbienceClips: MansionTypeAmbience
+  MaxEnemyPowerCount: 28
+  _Enemies:
+  - EnemyName: Centipede
+    SpawnWeight: 38
+  - EnemyName: SandSpider
+    SpawnWeight: 39
+  - EnemyName: HoarderBug
+    SpawnWeight: 20
+  - EnemyName: Flowerman
+    SpawnWeight: 31
+  - EnemyName: Crawler
+    SpawnWeight: 31
+  - EnemyName: Blob
+    SpawnWeight: 22
+  - EnemyName: DressGirl
+    SpawnWeight: 3
+  - EnemyName: Puffer
+    SpawnWeight: 16
+  - EnemyName: Jester
+    SpawnWeight: 1
+  - EnemyName: SpringMan
+    SpawnWeight: 16
+  - EnemyName: Nutcracker
+    SpawnWeight: 25
+  - EnemyName: MaskedPlayerEnemy
+    SpawnWeight: 20
+  EnemySpawnChanceThroughoutDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.0000075316057
+      value: 0.0028076172
+      inSlope: 41.64636
+      outSlope: 41.64636
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.27326855
+    - serializedVersion: 3
+      time: 0.21543768
+      value: 4.2777567
+      inSlope: 14.2851925
+      outSlope: 14.2851925
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.51821417
+      outWeight: 0.40484196
+    - serializedVersion: 3
+      time: 0.7631003
+      value: 11.275558
+      inSlope: 16.300922
+      outSlope: 16.300922
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.6316298
+      outWeight: 0.5360636
+    - serializedVersion: 3
+      time: 1
+      value: 15
+      inSlope: 35.604027
+      outSlope: 35.604027
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0.04912584
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SpawnProbabilityRange: 4
+  _SpawnableMapObjects:
+  - ObjectName: Landmine
+    SpawnFacingAwayFromWall: 0
+    SpawnRate:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.0030822754
+        value: 0
+        inSlope: 0.23179345
+        outSlope: 0.23179345
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0.2793643
+      - serializedVersion: 3
+        time: 0.81719244
+        value: 1.7483323
+        inSlope: 7.064207
+        outSlope: 7.064207
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.26318336
+        outWeight: 0.6898178
+      - serializedVersion: 3
+        time: 1.0002186
+        value: 11.760998
+        inSlope: 968.8081
+        outSlope: 968.8081
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.029036392
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - ObjectName: TurretContainer
+    SpawnFacingAwayFromWall: 1
+    SpawnRate:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.35461718
+        outSlope: 0.35461718
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.919029
+        value: 1.0005746
+        inSlope: Infinity
+        outSlope: 1.7338486
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0
+        outWeight: 0.65349674
+      - serializedVersion: 3
+        time: 1.0038426
+        value: 7.198681
+        inSlope: 529.4945
+        outSlope: 529.4945
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.14589553
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  _SpawnableOutsideObjects: []
+  MaxOutsideEnemyPowerCount: 8
+  MaxDaytimeEnemyPowerCount: 6
+  _OutsideEnemies:
+  - EnemyName: MouthDog
+    SpawnWeight: 71
+  - EnemyName: BaboonHawk
+    SpawnWeight: 33
+  - EnemyName: ForestGiant
+    SpawnWeight: 7
+  _DaytimeEnemies:
+  - EnemyName: RedLocustBees
+    SpawnWeight: 22
+  - EnemyName: Doublewing
+    SpawnWeight: 74
+  - EnemyName: DocileLocustBees
+    SpawnWeight: 52
+  OutsideEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.00000077369623
+      value: -2.8875
+      inSlope: Infinity
+      outSlope: -1.0600616
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.1662408
+    - serializedVersion: 3
+      time: 0.2946618
+      value: -1.1846187
+      inSlope: 3.21076
+      outSlope: 3.21076
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.44672105
+      outWeight: 0.33099535
+    - serializedVersion: 3
+      time: 0.75703347
+      value: 0.7652048
+      inSlope: 13.719
+      outSlope: 13.719
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.24271105
+      outWeight: 0.427918
+    - serializedVersion: 3
+      time: 1.0067885
+      value: 5.3594007
+      inSlope: 10.0691
+      outSlope: 11.374388
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.27395558
+      outWeight: 0.48315445
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 2.2706568
+      inSlope: -7.5000854
+      outSlope: -7.5000854
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.20650266
+    - serializedVersion: 3
+      time: 0.38507816
+      value: -0.006410897
+      inSlope: -2.7670975
+      outSlope: -2.7670975
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.28388944
+      outWeight: 0.30659768
+    - serializedVersion: 3
+      time: 0.6767025
+      value: -7.0216584
+      inSlope: -27.286888
+      outSlope: -27.286888
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10391547
+      outWeight: 0.12503523
+    - serializedVersion: 3
+      time: 0.9998173
+      value: -14.818101
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemiesProbabilityRange: 6
+  LevelIncludesSnowFootprints: 0
+  serializedRandomWeatherTypes: -1,0,0;1,0,0;2,1,0;3,1,0;5,1,0
+  serializedDungeonFlowTypes: 0,300;1,20
+  serializedSpawnableScrap: Cog1,23;EnginePart1,19;FishTestProp,86;MetalSheet,40;FlashLaserPointer,10;BigBolt,33;BottleBin,19;Ring,3;SteeringWheel,26;MoldPan,5;EggBeater,13;PickleJar,10;DustPan,32;Airhorn,5;ClownHorn,5;CashRegister,4;GoldBar,2;YieldSign,6;battery,10;cannedfood,15;matchbox,5;pills,2;tape,20;Bell,17;RubberDuck,22;DiyFlashbang,12;GiftBox,22;Flask,22;WhoopieCushion,11;ComedyMask,12;TragedyMask,18;7Ball,11;Dentures,13;PerfumeBottle,17;ChemicalJug,22;Brush,27;Hairdryer,26;SodaCanRed,20;Phone,15;MagnifyingGlass,10;RobotToy,8;ToyCube,14;Candy,13;Toothpaste,13;FancyLamp,5;FancyCup,11;FancyPainting,8
+  serializedEnemies: Centipede,38;SandSpider,39;HoarderBug,20;Flowerman,31;Crawler,31;Blob,22;DressGirl,3;Puffer,16;Jester,1;SpringMan,16;Nutcracker,25;MaskedPlayerEnemy,20
+  serializedOutsideEnemies: MouthDog,71;BaboonHawk,33;ForestGiant,7
+  serializedDaytimeEnemies: RedLocustBees,22;Doublewing,74;DocileLocustBees,52
+  serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":0.23179344832897187,"outSlope":0.23179344832897187,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27936428785324099},{"serializedVersion":"3","time":0.8171924352645874,"value":1.7483322620391846,"inSlope":7.064207077026367,"outSlope":7.064207077026367,"tangentMode":0,"weightedMode":3,"inWeight":0.2631833553314209,"outWeight":0.6898177862167358},{"serializedVersion":"3","time":1.0002186298370362,"value":11.760997772216797,"inSlope":968.80810546875,"outSlope":968.80810546875,"tangentMode":0,"weightedMode":3,"inWeight":0.029036391526460649,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};TurretContainer|True|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.354617178440094,"outSlope":0.354617178440094,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.9190289974212647,"value":1.0005745887756348,"inSlope":Infinity,"outSlope":1.7338485717773438,"tangentMode":0,"weightedMode":3,"inWeight":0.0,"outWeight":0.6534967422485352},{"serializedVersion":"3","time":1.0038425922393799,"value":7.198680877685547,"inSlope":529.4945068359375,"outSlope":529.4945068359375,"tangentMode":0,"weightedMode":3,"inWeight":0.14589552581310273,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
+  serializedSpawnableOutsideObjects: 

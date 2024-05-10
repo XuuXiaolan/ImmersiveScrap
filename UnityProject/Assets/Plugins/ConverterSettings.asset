@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -785643054, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: ConverterSettings
+  m_EditorClassIdentifier: 
+  modsRootDirectory: Assets/LethalCompany/Mods
+  assetRipGameRootDirectory: Assets/LethalCompany/Game
+  scrapItemIcon: {fileID: 21300000, guid: 3c34c44a22a37a74d8c9909cd73050fe, type: 3}
+  handIcon: {fileID: 21300000, guid: b79a3bf4ed1ea374eb32c9a8579cd43a, type: 3}
+  itemDropshipPrefab: {fileID: 4534902867106156788, guid: 6d86085995d77a341acf05e001d3c6e6,
+    type: 3}
+  waterSurfacePrefab: {fileID: 5794944041297494492, guid: 85a7148114b491f4ca7d80092df2ad41,
+    type: 3}
+  diageticMasterMixer: {fileID: 24300008, guid: 0b661fc62161ef6469fd48699fc7be8e,
+    type: 2}
+  assetBundleAssignmentSetting: 0
+  bundleVariantToggle: 0
+  moon: {fileID: 0}
+  scrap: {fileID: 0}
+  moonList: []
+  scrapList: []
+  organiserSelectedDirectory: 
+  organiserTargetDirectory: 
+  organiserSelectedAssetType: 0
+  moonListCount: 0
+  scrapListCount: 0
+  selectedVariantToClear: lem
+  defaultButtonColor: {r: 0.34509805, g: 0.34509805, b: 0.34509805, a: 1}
+  selectedButtonColor: {r: 0.21960784, g: 0.61960787, b: 0.8117647, a: 1}
+  disabledButtonColor: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 1}
+  extendedModList: []

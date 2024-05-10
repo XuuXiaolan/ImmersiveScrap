@@ -1,0 +1,487 @@
+ManifestFileVersion: 0
+CRC: 410721874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4ef64048f8a043700bcf2fccd938343
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a684e3c3f0501c162d0da3844e42b92
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c4ef64048f8a043700bcf2fccd938343
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1988467058, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1273582670, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 808788885, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.StringStringPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpMinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadeEndBorderParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadePartitionSplitParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Dropdown/DropdownEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Dropdown/OptionData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Dropdown/OptionDataList
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Mods/LethalExpansion/Prefabs/SpaceLight.prefab
+- Assets/Mods/LethalExpansion/ItemShip/ShipThrusterClose.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_9.asset
+- Assets/Mods/LethalExpansion/Prefabs/itemshipinstancer.prefab
+- Assets/Mods/LethalExpansion/ItemShip/HelmetGlass 1.mat
+- Assets/Mods/LethalExpansion/Materials/SunMat.mat
+- Assets/Mods/LethalExpansion/Prefabs/Lighting.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_63.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_43.asset
+- Assets/Mods/LethalExpansion/Prefabs/Audio.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_31.asset
+- Assets/Mods/LethalExpansion/ItemShip/MetalTreadplateAlbedo.png
+- Assets/Mods/LethalExpansion/ItemShip/ItemShipLeave.anim
+- Assets/Mods/LethalExpansion/ItemShip/Material.007.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4.png
+- Assets/Mods/LethalExpansion/ItemShip/TexturesCom_Wall_ConcreteBase_2.5x2.5_1K_roughness.png
+- Assets/Mods/LethalExpansion/ItemShip/Material.003.mat
+- Assets/Mods/LethalExpansion/ItemShip/RustedMetalAlbedo.png
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_8.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_44.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_13.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_16.asset
+- Assets/Mods/LethalExpansion/ItemShip/Cord.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_42.asset
+- Assets/Mods/LethalExpansion/Animations/Sun/TimeOfDaySun.anim
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_3.asset
+- Assets/Mods/LethalExpansion/ItemShip/BlackCord_1.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_20.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_14.asset
+- Assets/Mods/LethalExpansion/Prefabs/entranceteleportinstancer.prefab
+- Assets/Mods/LethalExpansion/Prefabs/Water.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_62.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_47.asset
+- Assets/Mods/LethalExpansion/ItemShip/IcecreamTruckV2Christmas.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_5.asset
+- Assets/Mods/LethalExpansion/shaders/updatedterrain/terrainlit_basemap.shader
+- Assets/Mods/LethalExpansion/Materials/Trigger.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_39.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_64.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_18.asset
+- Assets/Mods/LethalExpansion/Prefabs/AudioReverbPresets.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_75.asset
+- Assets/Mods/LethalExpansion/ItemShip/IcecreamTruckV2ChristmasFar.ogg
+- Assets/Mods/LethalExpansion/ItemShip/CorrugatedPlatesAlbedo.png
+- Assets/Mods/LethalExpansion/Textures/PlayerSuitTex2b.png
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_22.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_74.asset
+- Assets/Mods/LethalExpansion/Animations/LoadingCircleAnimController.controller
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_17.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_79.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_23.asset
+- Assets/Mods/LethalExpansion/ItemShip/ItemDropshipLand.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_57.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_41.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_32.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_19.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_0.controller
+- Assets/Mods/LethalExpansion/Prefabs/HUD/Settings/CloseButton.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_76.asset
+- Assets/Mods/LethalExpansion/Materials/SunEclipse1.mat
+- Assets/Mods/LethalExpansion/Prefabs/EntranceScanNode.prefab
+- Assets/Mods/LethalExpansion/ItemShip/FireAnimation.anim
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_61.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_0.asset
+- Assets/Mods/LethalExpansion/Meshes/Circle_1.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_65.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_7.asset
+- Assets/Mods/LethalExpansion/ItemShip/ItemShip.controller
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_53.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_49.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_38.asset
+- Assets/Mods/LethalExpansion/Prefabs/OutsideNode.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_51.asset
+- Assets/Mods/LethalExpansion/ItemShip/Wing.mat
+- Assets/Mods/LethalExpansion/ItemShip/MetalTreadplateNormal 1.png
+- Assets/Mods/LethalExpansion/ItemShip/ChristmasLightsLOD1.asset
+- Assets/Mods/LethalExpansion/Sky and Fog Global Volume Profile.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_54.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_58.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_27.asset
+- Assets/Mods/LethalExpansion/ItemShip/ChristmasLights.asset
+- Assets/Mods/LethalExpansion/Materials/Dark.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_72.asset
+- Assets/Mods/LethalExpansion/Prefabs/LevelGeneration.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_1.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_21.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_33.asset
+- Assets/Mods/LethalExpansion/ItemShip/RustedMetalAlbedo_0.png
+- Assets/Mods/LethalExpansion/Prefabs/HUD/Popup.prefab
+- Assets/Mods/LethalExpansion/Materials/Water.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_55.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_30.asset
+- Assets/Mods/LethalExpansion/Materials/DefaultEco.mat
+- Assets/Mods/LethalExpansion/ItemShip/RustedMetalNormal.png
+- Assets/Mods/LethalExpansion/Sprites/CrossButton.png
+- Assets/Mods/LethalExpansion/Prefabs/HUD/CheckingUpdate.prefab
+- Assets/Mods/LethalExpansion/ItemShip/LEDLightYellow.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_40.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_11.asset
+- Assets/Mods/LethalExpansion/sounds/metaldoorshut1 1.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_25.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_78.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_37.asset
+- Assets/Mods/LethalExpansion/Prefabs/entranceteleport.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_46.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_34.asset
+- Assets/Mods/LethalExpansion/ItemShip/Material.002.mat
+- Assets/Mods/LethalExpansion/ItemShip/TexturesCom_Metal_SteelBattered_512_albedo.png
+- Assets/Mods/LethalExpansion/Sprites/ScrapItemIcon2.png
+- Assets/Mods/LethalExpansion/Materials/DefaultPlayerSuit.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_29.asset
+- Assets/Mods/LethalExpansion/ItemShip/FlameMaterial.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_56.asset
+- Assets/Mods/LethalExpansion/ItemShip/ItemShipLand.anim
+- Assets/Mods/LethalExpansion/Textures/ScavengerPlayerModel.png
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_24.asset
+- Assets/Mods/LethalExpansion/Prefabs/PlayerShipNavmesh.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_68.asset
+- Assets/Mods/LethalExpansion/shaders/updatedterrain/terrainlit_basemapgen.shader
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_67.asset
+- Assets/Mods/LethalExpansion/ModManifest.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_60.asset
+- Assets/Mods/LethalExpansion/Textures/SunTexture.png
+- Assets/Mods/LethalExpansion/Textures/transparent.png
+- Assets/Mods/LethalExpansion/ItemShip/Material.004.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_59.asset
+- Assets/Mods/LethalExpansion/ItemShip/ItemShipIdleGone.anim
+- Assets/Mods/LethalExpansion/Animations/Sun/TimeOfDaySunEclipse.anim
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_66.asset
+- Assets/Mods/LethalExpansion/sounds/metaldoorshut1.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_52.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_28.asset
+- Assets/Mods/LethalExpansion/shaders/updatedterrain/terrainlit.shader
+- Assets/Mods/LethalExpansion/ItemShip/IcecreamTruckFar.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_45.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_6.asset
+- Assets/Mods/LethalExpansion/ItemShip/ItemShipOpenDoors.anim
+- Assets/Mods/LethalExpansion/ItemShip/RustedMetalDark.png
+- Assets/Mods/LethalExpansion/ItemShip/ItemDropshipOpenDoors.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_26.asset
+- Assets/Mods/LethalExpansion/Prefabs/HUD/Settings/SettingEntry.prefab
+- Assets/Mods/LethalExpansion/sounds/metaldoorshut2.ogg
+- Assets/Mods/LethalExpansion/ItemShip/TexturesCom_Metal_SteelBattered_512_normal.png
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_2.asset
+- Assets/Mods/LethalExpansion/Prefabs/ControlPanelButtonsInteractors.prefab
+- Assets/Mods/LethalExpansion/Animations/LoadingCircleAnim.anim
+- Assets/Mods/LethalExpansion/Prefabs/MapPropsContainer.prefab
+- Assets/Mods/LethalExpansion/Meshes/Cone.obj
+- Assets/Mods/LethalExpansion/Materials/doublesidedplane.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_77.asset
+- Assets/Mods/LethalExpansion/ItemShip/DirtySmoothSteel.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_36.asset
+- Assets/Mods/LethalExpansion/ItemShip/IcecreamTruckV2.ogg
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_69.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_73.asset
+- Assets/Mods/LethalExpansion/Meshes/MonitorWall.fbx
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_15.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_12.asset
+- Assets/Mods/LethalExpansion/ItemShip/CorrugatedPlatesNormal.png
+- Assets/Mods/LethalExpansion/Prefabs/ItemShipAnimContainer.prefab
+- Assets/Mods/LethalExpansion/lethalexpansionassetbank.asset
+- Assets/Mods/LethalExpansion/Prefabs/ShipScanNode.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Material.001_0.mat
+- Assets/Mods/LethalExpansion/ItemShip/Cylinder_1.asset
+- Assets/Mods/LethalExpansion/Materials/Bright.mat
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_4.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_35.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_50.asset
+- Assets/Mods/LethalExpansion/Meshes/Door.obj
+- Assets/Mods/LethalExpansion/Animations/Sun/TimeOfDaySunStormy.anim
+- Assets/Mods/LethalExpansion/Animations/Sun/SunAnimContainer.controller
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_71.asset
+- Assets/Mods/LethalExpansion/Prefabs/HUD/Settings/ModSettings.prefab
+- Assets/Mods/LethalExpansion/Sprites/LoadingCircle.png
+- Assets/Mods/LethalExpansion/shaders/updatedterrain/hdrp_updatedterrainlit.mat
+- Assets/Mods/LethalExpansion/ItemShip/glasscracked 1.png
+- Assets/Mods/LethalExpansion/Prefabs/HUD/Settings/SettingCategory.prefab
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_10.asset
+- Assets/Mods/LethalExpansion/ItemShip/MainShipPart.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_48.asset
+- Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_70.asset
+- Assets/Mods/LethalExpansion/Prefabs/ItemShipAnimContainerChristmas.prefab
+- Assets/Mods/LethalExpansion/ItemShip/glasscracked.png
+Dependencies:
+- C:/Users/miche/Desktop/LethalSDK_ProjectX/Assets/AssetBundle/oldseaport.lem

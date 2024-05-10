@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 455682614
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lethalexpansion.lem
+      Dependencies:
+        Dependency_0: oldseaport.lem
+    Info_1:
+      Name: oldseaport.lem
+      Dependencies: {}
+    Info_2:
+      Name: templatemod.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem
+        Dependency_1: oldseaport.lem
+    Info_3:
+      Name: immersivescraps.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem
+        Dependency_1: oldseaport.lem
