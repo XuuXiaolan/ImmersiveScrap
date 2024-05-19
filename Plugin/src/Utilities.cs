@@ -113,7 +113,7 @@ namespace ImmersiveScrap.Misc
 
         public static void CreateExplosion(Vector3 explosionPosition, bool spawnExplosionEffect = false, int damage = 20, float minDamageRange = 0f, float maxDamageRange = 1f, int enemyHitForce = 6, CauseOfDeath causeOfDeath = CauseOfDeath.Blast, PlayerControllerB attacker = null)
         {
-            Debug.Log("Spawning explosion at pos: {explosionPosition}");
+            Debug.Log($"Spawning explosion at pos: {explosionPosition}");
 
             Transform holder = null;
 
@@ -124,8 +124,6 @@ namespace ImmersiveScrap.Misc
 
             if (spawnExplosionEffect)
             {
-
-
                 UnityEngine.Object.Instantiate(StartOfRound.Instance.explosionPrefab, explosionPosition, Quaternion.Euler(-90f, 0f, 0f), holder).SetActive(value: true);
             }
 
@@ -176,7 +174,7 @@ namespace ImmersiveScrap.Misc
                     EnemyAICollisionDetect componentInChildren2 = array[i].gameObject.GetComponentInChildren<EnemyAICollisionDetect>();
                     if (componentInChildren2 != null && componentInChildren2.mainScript.IsOwner && num2 < 4.5f)
                     {
-                        componentInChildren2.mainScript.HitEnemyOnLocalClient(enemyHitForce, default, attacker, false, -1);
+                        componentInChildren2.mainScript.HitEnemyOnLocalClient(enemyHitForce, playerWhoHit: attacker);
                     }
                 }
             }

@@ -1,3 +1,6 @@
+## 1.0.3
+- Fixed config not working.
+
 ## 1.0.2
 - Added something funny to the brick.
 
