@@ -1,3 +1,7 @@
+## 1.1.0
+- Weapons work again
+- Config refixed again.
+
 ## 1.0.3
 - Fixed config not working.
 

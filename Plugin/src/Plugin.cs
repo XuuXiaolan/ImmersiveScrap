@@ -26,7 +26,7 @@ public class Plugin : BaseUnityPlugin {
         // Register Keybinds
         InputActionsInstance = new IngameKeybinds();
         ModConfig = new ImmersiveScrapConfig(this.Config); // Create the config with the file from here.
-        AssetBundleLoader.AddOnExtendedModLoadedListener(OnExtendedModRegistered, "XuXiaolan");
+        AssetBundleLoader.AddOnExtendedModLoadedListener(OnExtendedModRegistered, "XuXiaolan", "ImmersiveScraps");
         AssetBundleLoader.AddOnLethalBundleLoadedListener(OnLethalBundleLoaded, "immersivescrapassets.lethalbundle");
 
         InitializeNetworkBehaviours();
