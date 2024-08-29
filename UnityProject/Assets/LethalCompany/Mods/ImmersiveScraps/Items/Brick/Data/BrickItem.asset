@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BrickItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Brick
+  itemName: IBrick
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 1
@@ -51,7 +51,8 @@ MonoBehaviour:
   syncInteractLRFunction: 0
   saveItemVariable: 0
   isDefensiveWeapon: 0
-  toolTips: []
+  toolTips:
+  - Throw Brick [Q]
   verticalOffset: 0
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1

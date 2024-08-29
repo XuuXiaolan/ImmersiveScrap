@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ClockItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Clock
+  itemName: IClock
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 1

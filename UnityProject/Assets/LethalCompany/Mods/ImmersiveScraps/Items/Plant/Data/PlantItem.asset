@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlantItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Plant
+  itemName: ImmersivePlant
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 1

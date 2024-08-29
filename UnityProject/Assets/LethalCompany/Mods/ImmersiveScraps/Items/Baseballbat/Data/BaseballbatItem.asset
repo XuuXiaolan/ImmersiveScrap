@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BaseballbatItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Baseball bat
+  itemName: IBaseball bat
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 1
@@ -51,7 +51,8 @@ MonoBehaviour:
   syncInteractLRFunction: 1
   saveItemVariable: 0
   isDefensiveWeapon: 1
-  toolTips: []
+  toolTips:
+  - Swing Bat [LMB]
   verticalOffset: 0
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1

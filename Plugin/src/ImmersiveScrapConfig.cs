@@ -50,7 +50,22 @@ namespace ImmersiveScrap.Configs {
         public static ConfigEntry<string> ConfigWheelSpawnWeight { get; private set; }
         public static ConfigEntry<string> ConfigWineBottleSpawnWeight { get; private set; }
         public static ConfigEntry<string> ConfigWrenchSpawnWeight { get; private set; }
+        public static ConfigEntry<bool> ConfigBrickExploding { get; private set; }
+        public static ConfigEntry<bool> ConfigBrickDealingDamage { get; private set; }
+        public static ConfigEntry<int> ConfigBrickDealingXDamage { get; private set; }
         public ImmersiveScrapConfig(ConfigFile configFile) {
+            ConfigBrickExploding = configFile.Bind("Scrap Options",
+                                                "Brick Exploding",
+                                                false,
+                                                "Enable/Disable Brick Exploding");
+            ConfigBrickDealingDamage = configFile.Bind("Scrap Options",
+                                                "Brick Dealing Damage",
+                                                false,
+                                                "Enable/Disable Brick Dealing Damage");
+            ConfigBrickDealingXDamage = configFile.Bind("Scrap Options",
+                                                "Brick Dealing X Damage",
+                                                1,
+                                                "Set how much damage the Brick deals");
             ConfigAlcoholSpawnWeight = configFile.Bind("Scrap Options",
                                                 "Alcohol | SpawnWeight",
                                                 "Vanilla:20, Custom:20",

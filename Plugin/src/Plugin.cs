@@ -41,6 +41,7 @@ public class Plugin : BaseUnityPlugin {
             if (string.IsNullOrEmpty(configValue)) continue;
             List<StringWithRarity> planetNames = ConfigParsing(configValue);
             item.LevelMatchingProperties.levelTags.AddRange(planetNames);
+            item.LevelMatchingProperties.planetNames.AddRange(planetNames);
             Logger.LogInfo($"Updated matching properties for {item.Item}.");
         }
     }
@@ -51,13 +52,13 @@ public class Plugin : BaseUnityPlugin {
         switch (itemName) {
             case "Alcohol Flask":
                 return ImmersiveScrapConfig.ConfigAlcoholSpawnWeight.Value;
-            case "Anvil":
+            case "ImmersiveAnvil":
                 return ImmersiveScrapConfig.ConfigAnvilSpawnWeight.Value;
-            case "Baseball bat":
+            case "ImmersiveBaseball bat":
                 return ImmersiveScrapConfig.ConfigBaseballSpawnWeight.Value;
             case "Beer can":
                 return ImmersiveScrapConfig.ConfigBeercanSpawnWeight.Value;
-            case "Brick":
+            case "ImmersiveBrick":
                 return ImmersiveScrapConfig.ConfigBrickSpawnWeight.Value;
             case "Broken engine":
                 return ImmersiveScrapConfig.ConfigBrokenEngineSpawnWeight.Value;
@@ -71,13 +72,13 @@ public class Plugin : BaseUnityPlugin {
                 return ImmersiveScrapConfig.ConfigCarBatterySpawnWeight.Value;
             case "Clamp":
                 return ImmersiveScrapConfig.ConfigClampSpawnWeight.Value;
-            case "Clock":
+            case "ImmersiveClock":
                 return ImmersiveScrapConfig.ConfigClockSpawnWeight.Value;
-            case "Fan":
+            case "ImmersiveFan":
                 return ImmersiveScrapConfig.ConfigFanSpawnWeight.Value;
             case "Fancy Painting":
                 return ImmersiveScrapConfig.ConfigFancyPaintingSpawnWeight.Value;
-            case "Fireaxe":
+            case "ImmersiveFireaxe":
                 return ImmersiveScrapConfig.ConfigFireAxeSpawnWeight.Value;
             case "Fire extinguisher":
                 return ImmersiveScrapConfig.ConfigFireExtingSpawnWeight.Value;
@@ -89,17 +90,17 @@ public class Plugin : BaseUnityPlugin {
                 return ImmersiveScrapConfig.ConfigGameboySpawnWeight.Value;
             case "Garbage":
                 return ImmersiveScrapConfig.ConfigGarbageSpawnWeight.Value;
-            case "Hammer":
+            case "ImmersiveHammer":
                 return ImmersiveScrapConfig.ConfigHammerSpawnWeight.Value;
             case "Jerrycan":
                 return ImmersiveScrapConfig.ConfigJerryCanSpawnWeight.Value;
-            case "Keyboard":
+            case "ImmersiveKeyboard":
                 return ImmersiveScrapConfig.ConfigKeyboardSpawnWeight.Value;
-            case "Lantern":
+            case "ImmersiveLantern":
                 return ImmersiveScrapConfig.ConfigLanternSpawnWeight.Value;
             case "Library lamp":
                 return ImmersiveScrapConfig.ConfigLibraryLampSpawnWeight.Value;
-            case "Plant":
+            case "ImmersivePlant":
                 return ImmersiveScrapConfig.ConfigPlantSpawnWeight.Value;
             case "Pliers":
                 return ImmersiveScrapConfig.ConfigPliersSpawnWeight.Value;
@@ -113,7 +114,7 @@ public class Plugin : BaseUnityPlugin {
                 return ImmersiveScrapConfig.ConfigSinkSpawnWeight.Value;
             case "Socket Wrench":
                 return ImmersiveScrapConfig.ConfigSocketSpawnWeight.Value;
-            case "Squeaky toy":
+            case "ImmersiveSqueaky toy":
                 return ImmersiveScrapConfig.ConfigSqueakyToySpawnWeight.Value;
             case "Suitcase":
                 return ImmersiveScrapConfig.ConfigSuitcaseSpawnWeight.Value;

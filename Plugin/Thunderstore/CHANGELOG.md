@@ -1,3 +1,24 @@
+## 1.3.0
+- Fixed any multi-hit bug on my end.
+- Changed the Immersive names to just be an I and gave some weapons tooltips.
+- Fixed hammer being recognised as two handed.
+
+## 1.2.0
+- Brick has a config to deal damage while thrown now, without explosion.
+- Changed some name stuff internal for 0 conflicts with other scrap.
+- Fixed being able to throw other things while holding a brick.
+- Reduced anvil weight to 500lbs to avoid any breakages.
+- Fixed some "weapons" being weapons when they should just be normal scrap.
+
+## 1.1.2
+- Made exploding brick a config disabled by default.
+- Improved config so that you can add planet names.
+
+## 1.1.1
+- Removed explosions from brick.
+- Potentially fixed bug where you could throw anything whilst having a brick in inventory.
+- Adjusted wrench and hammer back to normal scrap.
+
 ## 1.1.0
 - Weapons work again
 - Config refixed again.

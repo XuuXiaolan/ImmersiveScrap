@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ImmersiveScrap.Configs;
 using ImmersiveScrap.Misc;
 using Unity.Netcode;
 using UnityEngine;
@@ -19,10 +20,7 @@ public class Brick : ThrowableNoisemaker {
         noiseMakerRandom = new System.Random(StartOfRound.Instance.randomMapSeed + 85);
     }
     public void DetectThrowKeyPressed() {
-        if (!Plugin.InputActionsInstance.ThrowKey.triggered) return;
-        if (!IsOwner) {
-            return;
-        }
+        if (!Plugin.InputActionsInstance.ThrowKey.triggered || playerHeldBy != GameNetworkManager.Instance.localPlayerController) return;
         wasThrown = true;
         var rotationStuff = GetItemThrowDestination();
         playerHeldBy.DiscardHeldObject(placeObject: true, null, rotationStuff);
@@ -30,7 +28,7 @@ public class Brick : ThrowableNoisemaker {
     }
     public override void Update() {
         base.Update();
-        if (!playerHeldBy) return;
+        if (playerHeldBy == null || playerHeldBy.currentlyHeldObjectServer != this) return;
         DetectThrowKeyPressed();
     }
 
@@ -73,7 +71,9 @@ public class Brick : ThrowableNoisemaker {
 
     public void CreateExplosion() {
         var player = StartOfRound.Instance.allPlayerScripts.FirstOrDefault(x => x.OwnerClientId == OwnerClientId);
-        Utilities.CreateExplosion(transform.position, true, 20, 0, 2, 2, CauseOfDeath.Blast, player);
+        int dealtDamage = 0;
+        if (ImmersiveScrapConfig.ConfigBrickDealingDamage.Value) dealtDamage = ImmersiveScrapConfig.ConfigBrickDealingXDamage.Value;
+        Utilities.CreateExplosion(transform.position, ImmersiveScrapConfig.ConfigBrickExploding.Value, 20, 0, dealtDamage, 2, CauseOfDeath.Blast, player);
     }
 
     public void Boom() {

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2427448597174891555}
   - component: {fileID: 2137946447660816490}
   - component: {fileID: -2437749396358341390}
-  - component: {fileID: 965669854231582874}
+  - component: {fileID: 8691645524969335863}
   m_Layer: 6
   m_Name: HammerPrefab
   m_TagString: PhysicsProp
@@ -226,7 +226,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &965669854231582874
+--- !u!114 &8691645524969335863
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1985338178271116}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ddba82876c68b6429a16b7b97af7507, type: 3}
+  m_Script: {fileID: 11500000, guid: 3c9c21223b288d64d8ebe997059a8e5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   grabbable: 1
@@ -274,15 +274,6 @@ MonoBehaviour:
   reachedFloorTarget: 0
   grabbableToEnemies: 1
   hasBeenHeld: 0
-  shovelHitForce: 2
-  reelingUp: 0
-  isHoldingButton: 0
-  reelUp: {fileID: 8300000, guid: 99c73f3871b3b5644ada953ee644e55b, type: 3}
-  swing: {fileID: 8300000, guid: 01e4393954f3d9346bd835cc155abfb2, type: 3}
-  hitSFX:
-  - {fileID: 8300000, guid: 7e6a8066bc34bce499934193a3b5b502, type: 3}
-  - {fileID: 8300000, guid: 01219d5837be97748b8e67ba8f957bab, type: 3}
-  shovelAudio: {fileID: -2437749396358341390}
 --- !u!1 &7037987247861859162
 GameObject:
   m_ObjectHideFlags: 0

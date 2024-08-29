@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: AnvilItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Anvil
+  itemName: ImmersiveAnvil
   spawnPositionTypes: []
   twoHanded: 1
   twoHandedAnimation: 1
   disableHandsOnWall: 0
   canBeGrabbedBeforeGameStart: 1
-  weight: 13
+  weight: 5
   itemIsTrigger: 0
   holdButtonUse: 0
   itemSpawnsOnGround: 1

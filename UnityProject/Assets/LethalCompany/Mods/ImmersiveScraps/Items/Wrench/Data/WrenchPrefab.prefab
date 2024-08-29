@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2427448597174891555}
   - component: {fileID: 2137946447660816490}
   - component: {fileID: -7931422731978952743}
-  - component: {fileID: 7456728913749190682}
+  - component: {fileID: 8587603083708179997}
   m_Layer: 6
   m_Name: WrenchPrefab
   m_TagString: PhysicsProp
@@ -104,7 +104,7 @@ BoxCollider:
     m_Bits: 0
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 1
+  m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 0.31, y: 0.081419155, z: 0.6528816}
@@ -226,7 +226,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &7456728913749190682
+--- !u!114 &8587603083708179997
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1985338178271116}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ddba82876c68b6429a16b7b97af7507, type: 3}
+  m_Script: {fileID: 11500000, guid: 3c9c21223b288d64d8ebe997059a8e5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   grabbable: 1
@@ -274,15 +274,6 @@ MonoBehaviour:
   reachedFloorTarget: 0
   grabbableToEnemies: 1
   hasBeenHeld: 0
-  shovelHitForce: 2
-  reelingUp: 0
-  isHoldingButton: 0
-  reelUp: {fileID: 8300000, guid: 99c73f3871b3b5644ada953ee644e55b, type: 3}
-  swing: {fileID: 8300000, guid: 7850b643cff9b9f498901d6777e5d2af, type: 3}
-  hitSFX:
-  - {fileID: 8300000, guid: 7e6a8066bc34bce499934193a3b5b502, type: 3}
-  - {fileID: 8300000, guid: 01219d5837be97748b8e67ba8f957bab, type: 3}
-  shovelAudio: {fileID: -7931422731978952743}
 --- !u!1 &7037987247861859162
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,7 +373,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3

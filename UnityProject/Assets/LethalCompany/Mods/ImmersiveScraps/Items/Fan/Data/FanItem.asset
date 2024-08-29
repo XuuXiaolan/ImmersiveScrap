@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: FanItem
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Fan
+  itemName: IFan
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 1
