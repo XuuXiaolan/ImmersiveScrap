@@ -1,3 +1,6 @@
+## 1.3.1
+- Fixed some configuration issues.
+
 ## 1.3.0
 - Fixed any multi-hit bug on my end.
 - Changed the Immersive names to just be an I and gave some weapons tooltips.
