@@ -1,3 +1,6 @@
+## 1.4.0
+- Was recommended a fix for multi-hit bug, so thats what this update is, to try and fix multi-hit.
+
 ## 1.3.1
 - Fixed some configuration issues.
 
